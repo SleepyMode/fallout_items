@@ -1,7 +1,7 @@
 ITEM.name 		= "NCR Ranger 100 Outfit"
 ITEM.desc 		= "A ranger outfit of the New California Republic."
 ITEM.category 	= "Outfit"
-ITEM.model 		= "models/player/ncr/fem_ncr_01.mdl"
+ITEM.model 		= "models/player/fallout_nv/nikout/lonesomeroad/riotsoldier.mdl"
 ITEM.width 		= 1
 ITEM.height 	= 1
 
